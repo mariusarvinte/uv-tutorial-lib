@@ -1,2 +1,2 @@
-# uv-tutorial
+# uv-tutorial-lib
 Basic uv tutorial
